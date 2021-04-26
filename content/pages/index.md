@@ -55,5 +55,5 @@ seo:
       relativeUrl: true
 layout: advanced
 title: Home - Kevin
-excerpt: Building a launchpad for Houston's Next gen of Massagpreneurs
+excerpt: Building a launchpad for Houston's Next gen of Massagapreneurs
 ---
