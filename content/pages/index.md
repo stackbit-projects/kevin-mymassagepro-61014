@@ -55,5 +55,5 @@ seo:
       relativeUrl: true
 layout: advanced
 title: Home - Kevin
-excerpt: Building
+excerpt: Buildingb
 ---
