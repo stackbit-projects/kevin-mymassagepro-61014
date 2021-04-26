@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >
-      Building a launchpad for Houston's Next gen of
+      MassagapreneursBuilding a launchpad for Houston's Next gen of
       MassagapreneursMassagapreneurs
     actions:
       - label: Contact Me
