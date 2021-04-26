@@ -55,5 +55,5 @@ seo:
       relativeUrl: true
 layout: advanced
 title: Home - Kevin
-excerpt: Building a launcj
+excerpt: 'Building a launchpad '
 ---
