@@ -54,5 +54,5 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: advanced
-title: 'Home '
+title: Home - Kevin
 ---
